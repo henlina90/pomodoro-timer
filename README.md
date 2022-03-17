@@ -5,6 +5,11 @@ A simplified version of Cirillo's original Pomodoro technique, a time-management
 ### Screenshot
 ![screenshot](./screenshot.png)
 
+### Highlights
+* The initial screen lets the user set the length of the focus and break and break sessions
+* After the user clicks the "play" button, the buttons to change the focus and break duration are disabled, and the session timer appears
+* If the user clicks the "pause" button, "paused" appears below the time remaining
+
 ### Learning objectives
 Rendering and state management using React
 
